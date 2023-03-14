@@ -13,5 +13,5 @@ As minhas principais Stacks São:<br>
 
 Caso queira entrar em contato, pode me achar por esses meios:
 <div>
-Linkedin: <a href ="https://www.linkedin.com/in/victorsantosm/"></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+<a href ="https://www.linkedin.com/in/victorsantosm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="65" height="65"/></a>
 </div>
