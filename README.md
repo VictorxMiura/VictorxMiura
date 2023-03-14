@@ -8,7 +8,7 @@ Sou familiarizado desde mongoDB até PostgreSQL.
 
 
 As minhas principais Stacks São:
-Java : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+Java : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="250" height="250" />
 SpringBoot: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
 PostgreSQL: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 
