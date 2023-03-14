@@ -1,16 +1,18 @@
-### Hi there 👋
+# Yo, pode me chamar de miura!
+## Obrigado pela visita!
 
-<!--
-**VictorxMiura/VictorxMiura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou um dev Back-end mais focado em Java com Spring, e todo que abrange banco de dados.
+Sou familiarizado desde mongoDB até PostgreSQL.
+- Sou formado pela unviversidade cruzeiro do Sul, desde 2022.
+- Sempre em busca de colaborações e lugares que possam agregar o meu conhecimento, e me interesso bastante em aprender coisas variadas.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As minhas principais Stacks São:
+Java : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+SpringBoot: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
+PostgreSQL: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
+Caso queira entrar em contato, pode me achar por esses meios:
+<div>
+Linkedin: <a href ="https://www.linkedin.com/in/victorsantosm/"></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+</div>
