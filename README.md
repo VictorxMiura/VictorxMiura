@@ -8,9 +8,9 @@ Sou familiarizado desde mongoDB até PostgreSQL.
 
 
 As minhas principais Stacks São:<br>
-Java : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="100" height="100" />
-SpringBoot: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
-PostgreSQL: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="100" height="100" /><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" width="100" height="100" /><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="100" height="100" /><br>
 
 Caso queira entrar em contato, pode me achar por esses meios:
 <div>
