@@ -10,7 +10,7 @@ Sou familiarizado desde mongoDB até PostgreSQL.
 As minhas principais Stacks São:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="65" height="65" />                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" width="65" height="65" />                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="65" height="65" />  
 
-
+Mas no momento
 Caso queira entrar em contato, pode me achar por esses meios:
 <div>
 <a href ="https://www.linkedin.com/in/victorsantosm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="65" height="65"/></a></br>
