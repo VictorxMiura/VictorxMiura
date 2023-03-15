@@ -13,6 +13,6 @@ As minhas principais Stacks São:<br>
 
 Caso queira entrar em contato, pode me achar por esses meios:
 <div>
-<a href ="https://www.linkedin.com/in/victorsantosm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="65" height="65"/></a>
+<a href ="https://www.linkedin.com/in/victorsantosm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="65" height="65"/></a></br>
 ou pelo Gmail: miura.hublab@gmail.com
 </div>
